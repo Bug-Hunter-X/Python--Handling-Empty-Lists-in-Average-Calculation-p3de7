@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Python: handling empty lists when calculating the average. The original code has a potential issue: if the list is empty, it divides by zero and throws an exception. The solution provides a safer implementation.
